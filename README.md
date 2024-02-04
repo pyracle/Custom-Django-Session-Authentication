@@ -32,13 +32,19 @@ each specific use case.
 
 <img src="assets/images/login.jpg" alt="Login Page" style="width: 50%">
 
+<hr>
+
 ### Logout
 
 <img src="assets/images/logout.jpg" alt="Logout Page" style="width: 50%">
 
+<hr>
+
 ### Create Account
 
 <img src="assets/images/create_account.jpg" alt="Account Creation Page" style="width: 50%">
+
+<hr>
 
 ### Reset Password
 
