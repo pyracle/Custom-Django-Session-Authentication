@@ -8,7 +8,7 @@
 > that utilizes the user's E-Mail to reset it.
 > If the user didn't attempt to reset the password himself he can confirm that it was
 > not him resulting in the deletion of a token associated with the process.
-> Now if someone tried to reset the password with the link in the E-Mail again, he will receive an HTTP 404 error.
+> Now if someone tried to reset the password with the link in the E-Mail, he will receive an HTTP 404 error.
 
 
 > [!NOTE]
