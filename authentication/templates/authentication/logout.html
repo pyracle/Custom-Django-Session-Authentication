@@ -1,0 +1,11 @@
+{% extends 'authentication/base_auth.html' %}
+{% load static %}
+
+{% block title %}Logout{% endblock %}
+
+{% block content %}
+  <form method="post">
+    {% csrf_token %}
+    <button class="submit-button" type="submit">Logout</button>
+  </form>
+{% endblock %}
