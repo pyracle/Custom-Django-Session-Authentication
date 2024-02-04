@@ -27,7 +27,7 @@ each specific use case.
 
 ### Login
 
-<img src="assets/images/login.jpg" alt="Login Page" style="width: 500px">
+<img src="assets/images/login.jpg" alt="Login Page" style="width: 500%">
 
 <hr>
 
