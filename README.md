@@ -1,4 +1,4 @@
-**# Custom Django Session Authentication
+# Custom Django Session Authentication
 
 <hr>
 
