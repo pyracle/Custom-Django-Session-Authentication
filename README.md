@@ -14,10 +14,9 @@ not him resulting in the deletion of a token associated with the process.
 Now if someone tried to reset the password with the link in the E-Mail again, he will
 receive an HTTP 404 error.
 
+> [!NOTE]
 > The E-Mail as well the hints for creating a secure password have to be modified for
 each specific use case.
- 
-<hr>
 
 ## The User Interface
 
