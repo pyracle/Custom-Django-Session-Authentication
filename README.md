@@ -1,4 +1,4 @@
-# Custom Django Session Authentication
+**# Custom Django Session Authentication
 
 <hr>
 
@@ -25,35 +25,42 @@ each specific use case.
 
 <hr>
 
+<div style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center
+">
+
 ### Login
 
-<center>
 <img src="assets/images/login.jpg" alt="Login Page" style="width: 50%">
-</center>
 
 <hr>
 
 ### Logout
 
-<img src="assets/images/logout.jpg" alt="Logout Page" style="width: 500px">
+<img src="assets/images/logout.jpg" alt="Logout Page" style="width: 50%">
 
 <hr>
 
 ### Create Account
 
-<img src="assets/images/create_account.jpg" alt="Account Creation Page" style="width: 500px">
+<img src="assets/images/create_account.jpg" alt="Account Creation Page" style="width: 50%">
 
 <hr>
 
 ### Reset Password
 
-<img src="assets/images/enter_email.jpg" alt="E-Mail Input Page" style="width: 500px">
+<img src="assets/images/enter_email.jpg" alt="E-Mail Input Page" style="width: 50%">
 <br>
-<img src="assets/images/email.jpg" alt="Login Page" style="width: 500px">
+<img src="assets/images/email.jpg" alt="Login Page" style="width: 50%">
 <br>
-<img src="assets/images/reset_password.jpg" alt="Login Page" style="width: 500px">
+<img src="assets/images/reset_password.jpg" alt="Login Page" style="width: 50%">
 <br>
-<img src="assets/images/confirm_not_you.jpg" alt="Login Page" style="width: 500px">
+<img src="assets/images/confirm_not_you.jpg" alt="Login Page" style="width: 50%">
+</div>
+
 
 <hr>
 
@@ -146,4 +153,4 @@ urlpatterns = [
     path(f"{admin_url}", admin.site.urls),
     ...
 ]
-```
+```**
