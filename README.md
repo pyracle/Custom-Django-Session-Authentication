@@ -1,7 +1,5 @@
 # Custom Django Session Authentication
 
-<hr>
-
 ## Introduction
 
 > The Django application offers a simple yet fully-functional authentication system where users can login, logout,
@@ -23,8 +21,6 @@ each specific use case.
 
 ## The User Interface
 
-<hr>
-
 <div style="
     display: flex;
     flex-direction: column;
@@ -36,19 +32,13 @@ each specific use case.
 
 <img src="assets/images/login.jpg" alt="Login Page" style="width: 50%">
 
-<hr>
-
 ### Logout
 
 <img src="assets/images/logout.jpg" alt="Logout Page" style="width: 50%">
 
-<hr>
-
 ### Create Account
 
 <img src="assets/images/create_account.jpg" alt="Account Creation Page" style="width: 50%">
-
-<hr>
 
 ### Reset Password
 
@@ -61,12 +51,7 @@ each specific use case.
 <img src="assets/images/confirm_not_you.jpg" alt="Login Page" style="width: 50%">
 </div>
 
-
-<hr>
-
 ## Installation
-
-<hr>
 
 Clone the project and install the required dependencies.
 
