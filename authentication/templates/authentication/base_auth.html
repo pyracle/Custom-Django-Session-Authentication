@@ -1,0 +1,14 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% block style %}{% endblock %}" />
+    <link rel="stylesheet" href="{% static 'authentication/base_auth.css' %}" />
+  </head>
+
+  <body>
+    <div class="container">{% block content %}{% endblock %}</div>
+  </body>
+</html>
