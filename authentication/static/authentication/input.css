@@ -1,0 +1,29 @@
+p {
+  color: red;
+}
+
+.form-group {
+  background-color: white;
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
+  border-color: lightgrey;
+  font-size: 17px;
+  padding: 2% 2%;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: black;
+  transition: box-shadow 0.1s;
+}
+
+.form-group:hover {
+  box-shadow: 0px 0px 5px lightgrey;
+}
+
+.spacing {
+  padding: 4% 0;
+}
+
+.little-spacing {
+  margin-bottom: 8%;
+}
