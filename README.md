@@ -11,7 +11,7 @@
 
 > Now if someone tried to reset the password with the link in the E-Mail again, he will receive an HTTP 404 error.
 
-<br>
+
 > [!NOTE]
 > The E-Mail as well the hints for creating a secure password have to be modified for
 each specific use case.
