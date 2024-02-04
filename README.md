@@ -153,4 +153,4 @@ urlpatterns = [
     path(f"{admin_url}", admin.site.urls),
     ...
 ]
-```**
+```
