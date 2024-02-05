@@ -5,7 +5,7 @@
 > The Django application offers a simple yet fully-functional authentication system where users can login, logout,
 > create accounts and reset their password.
 > It comes with many security features out of the box including a password reset
-> that utilizes the user's E-Mail to reset it.
+> method that utilizes the user's E-Mail to reset it.
 > If the user didn't attempt to reset the password himself he can confirm that it was
 > not him resulting in the deletion of a token associated with the process.
 > Now if someone tried to reset the password with the link in the E-Mail, he will receive an HTTP 404 error.
